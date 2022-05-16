@@ -1,0 +1,120 @@
+   
+   @media screen and (max-width: 1199px) {
+   .finding__inner .card {
+         background: #4D77FF;
+         top: 30%;
+         right: 0;
+   }
+   .review-slider__image {
+      display: none;
+   }
+
+   .swiper-slide .review__info {
+      transform: translate(-50%, 750%);
+   }
+
+   .swiper-slide .review__text {
+      margin: 0px auto;
+   }
+   .container {
+   max-width: 960px;
+   margin: 0px auto;
+   }
+   .finding__inner .elipse--img {
+      display: none;
+   }
+   .doctor--img {
+      display: none;
+   }
+   .header__inner .card {
+      left: 80%;
+      top: 60%;
+   }
+
+   }
+   
+   @media screen and (max-width: 991px) {
+   .container {
+   max-width: 720px;
+   margin: 0px auto;
+   }
+
+   .solution__inner .steps {
+      display: block;
+   }
+
+   .steps .steps__item {
+      margin-bottom: 30px;
+   }
+
+   
+   .shedule-img {
+      display: none;
+   }
+
+   .footer__text  {
+      display: none;
+   }
+
+   .header__inner .card {
+      background: #4D77FF;
+      left: 100%;
+      top: 50%;
+   }
+   
+
+   .header__inner .card .button {
+      background: white;
+      color: #4D77FF ;
+   }
+
+   .elipse--img {
+      display: none;
+   }
+   }
+
+
+   
+   @media screen and (max-width: 767px) {
+
+
+   .container {
+   max-width: 540px;
+   margin: 0px auto;
+
+   }
+
+   .finding__inner .card {
+      display: none;
+   }
+
+   .header__inner .card {
+      display: none;
+   }
+
+   .navbar .menu {
+      display: none;
+   }
+
+   .header__inner .menu-btn {
+      opacity: 1;
+   }
+
+   .rating__inner .rating__collumns {
+      display: block;
+   }
+   
+   .rating__item {
+      margin-top: 50px;
+   }
+   }
+
+
+   
+   @media screen and (max-width: 575px) {
+   .container {
+   margin: 0px auto;
+
+   }
+   
+   }
